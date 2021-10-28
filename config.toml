@@ -1,4 +1,4 @@
-baseURL = 'https://al-ti.github.io/gohugo/'
+baseURL = 'https://dev-docs.ventuscloud.eu/gohugo/'
 languageCode = "en-us"
 title = "Ventus Docs"
 theme = "hugo-theme-learn"
